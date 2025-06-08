@@ -83,9 +83,9 @@ From within `src` folder run:
 
 **TODO**
 
-•to work on not flatten images
-•to work on colorful pages
-•to work on different fonts
+-to work on not flatten images.
+-to work on colorful pages.
+-to work on different fonts.
 
 ---
 
