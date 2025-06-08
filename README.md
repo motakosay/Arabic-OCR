@@ -74,9 +74,15 @@ From within `src` folder run:
 
 **NOTE**
 
-We achieved these results when we used only the flatten image as feature.
+•We achieved these results when we used only the flatten image as feature.
+
 
 ---
+
+**TODO**
+•to work on not flatten images
+•to work on colorful pages
+•to work on different fonts
 
 # References
 
